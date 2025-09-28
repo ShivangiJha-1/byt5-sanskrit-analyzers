@@ -14,6 +14,9 @@ The finetuned multitask model: [Huggingface link](https://huggingface.co/chronbm
 Our project is organized into three main directories. Currently, we make the applications/ section available, we will add the training and data sections in the future. 
 
 - `applications/`: Contains various inference scripts for applying our model.
+  - `segmentation-lemma-tagging/`: Segmentation, lemmatization, and morphosyntactic analysis
+  - `dependency-parsing/`: Dependency parsing for Sanskrit texts
+  - `consciousness-analysis/`: Consciousness analysis agent for identifying consciousness-related concepts, terms, and states in Sanskrit philosophical texts
 
 ## Getting Started
 
